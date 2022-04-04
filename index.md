@@ -13,5 +13,6 @@
     <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
+  <input type="hidden" name="_next" value="/thankyou.html" />
   <button type="submit">Send</button>
 </form>
