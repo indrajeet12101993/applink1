@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "com.born.architect",
-               "sha256_cert_fingerprints": ["7C:D2:40:51:46:A6:2B:3C:83:BD:3D:F9:53:AE:12:63:A1:5B:93:88"] }
+               "sha256_cert_fingerprints": ["FB:BC:EF:9E:FF:1F:0A:A6:D3:8C:EE:CC:62:82:63:E8:57:4B:1F:64:68:20:5B:74:EB:C4:3B:49:39:31:30:ED"] }
 }]
